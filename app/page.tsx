@@ -1,4 +1,5 @@
 import Advantages from "@/components/Advantages";
+import FAQ from "@/components/FAQ";
 import Feature from "@/components/Feature";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
@@ -12,6 +13,7 @@ export default function Home() {
       <Feature />
       <Advantages />
       <Testimonial />
+      <FAQ />
     </>
   );
 }

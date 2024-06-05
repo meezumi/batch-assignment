@@ -22,7 +22,8 @@ const Hero = () => {
                 </button>
 
                 <button className="flex items-center text-black">
-                  Watch Video
+                  <input type="image" src="/assets/icons/play.svg" className='pr-2'/>
+                  Watch Video 
                 </button>
 
               </div>
