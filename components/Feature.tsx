@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 const Feature = () => {
   return (
-       <div className="flex flex-row p-5">
+       <div className="flex flex-row p-5 mt-[-50px]">
           <div className="w-1/2 flex justify-center mb-5">
             <Image 
               src="/assets/images/feature.png" 
