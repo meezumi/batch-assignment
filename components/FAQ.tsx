@@ -9,8 +9,8 @@ const FAQ = () => {
           FAQ
         </h3>  
 
-        <h2 className="text-4xl font-extrabold">
-          Frequently Asked Questions
+        <h2 className="text-5xl font-extrabold">
+          Frequently Asked <br /> Questions
         </h2>
 
         <div className="mt-6 grid grid-cols-2 gap-6">
@@ -32,7 +32,7 @@ const FAQ = () => {
                The Best Financial Accounting App Ever!
             </h3>
 
-            <p>
+            <p className='text-gray-500'>
                 “Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Acoumsan, Ultricies. In Ultrices Malesuada Elit Mauris.”
             </p>
             
@@ -44,7 +44,7 @@ const FAQ = () => {
                The Best Financial Accounting App Ever!
             </h3>
 
-            <p>
+            <p className='text-gray-500'>
                 “Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Acoumsan, Ultricies. In Ultrices Malesuada Elit Mauris.”
             </p>
             
@@ -80,7 +80,7 @@ const FAQ = () => {
                The Best Financial Accounting App Ever!
             </h3>
 
-            <p>
+            <p className='text-gray-500'>
                 “Arcu At Dictum Sapien, Mollis. Vulputate Sit Id Acoumsan, Ultricies. In Ultrices Malesuada Elit Mauris.”
             </p>
             

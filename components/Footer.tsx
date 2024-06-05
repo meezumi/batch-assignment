@@ -59,7 +59,7 @@ const Footer = () => {
               <h5 className="font-semibold mb-2 text-2xl pb-2">
                 Links
               </h5>
-              <ul className='text-sm space-y-2'>
+              <ul className='text-sm space-y-2 font-semibold'>
                 <li><a href="#" className="hover:text-red-500">Home</a></li>
                 <li><a href="#" className="hover:text-red-500">About Us</a></li>
                 <li><a href="#" className="hover:text-red-500">Bookings</a></li>
@@ -73,7 +73,7 @@ const Footer = () => {
               <h5 className="font-semibold mb-2 text-2xl pb-2">
                 Legal
               </h5>
-              <ul className='text-sm space-y-2'>
+              <ul className='text-sm space-y-2 font-semibold'>
                 <li><a href="#" className="hover:text-red-500 pb-2">Terms of Use</a></li>
                 <li><a href="#" className="hover:text-red-500">Privacy Policy</a></li>
                 <li><a href="#" className="hover:text-red-500">Cookie Policy</a></li>
@@ -86,7 +86,7 @@ const Footer = () => {
               <h5 className="font-semibold mb-2 text-2xl pb-2">
                 Product
               </h5>
-              <ul className='text-sm space-y-2'>
+              <ul className='text-sm space-y-2 font-semibold'>
                 <li><a href="#" className="hover:text-red-500">Take Tour</a></li>
                 <li><a href="#" className="hover:text-red-500">Live Chat</a></li>
                 <li><a href="#" className="hover:text-red-500">Reviews</a></li>
@@ -100,7 +100,7 @@ const Footer = () => {
               Newsletter
             </h5>
 
-            <h6 className="text-sm mb-3">Stay Up To Date</h6>
+            <h6 className="text-sm mb-3 font-semibold">Stay Up To Date</h6>
             <form className="flex flex-row">
               <input 
                 type="email" 
@@ -119,7 +119,7 @@ const Footer = () => {
 
         <hr className="my-5 border-gray-400 w-full mx-auto max-w-7xl margin-b-2" />
 
-        <div className="mt-6 text-center">
+        <div className="mt-6 text-center font-semibold">
           <p>Copyright © 2024 Uifry.Com All Rights Reserved</p>
         </div>
       </div>

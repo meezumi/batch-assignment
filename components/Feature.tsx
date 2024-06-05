@@ -6,7 +6,7 @@ const Feature = () => {
        <div className="flex flex-row p-5 mt-[-50px]">
           <div className="w-1/2 flex justify-center mb-5">
             <Image 
-              src="/assets/images/feature.png" 
+              src="/assets/images/feature.svg" 
               alt="feature" 
               width={1600} 
               height={800}
@@ -17,7 +17,7 @@ const Feature = () => {
             <h2 className="text-red-500 text-lg font-semibold mb-2">
               FEATURES
             </h2>
-            <h1 className="text-3xl font-extrabold mb-6">
+            <h1 className="text-4xl font-extrabold mb-6">
               Uifry Premium
             </h1>
 
@@ -31,7 +31,7 @@ const Feature = () => {
                       alt="star"
                       width={18} 
                       height={18}
-                      className='mr-1'
+                      className='mr-2'
                     />
 
                     <p className="text-lg font-semibold">
@@ -39,7 +39,7 @@ const Feature = () => {
                     </p>
                   </div>
 
-                  <p className="text-gray-500 font-semibold text-sm">
+                  <p className="text-gray-500 text-md">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, reprehenderit? Eum omnis modi architecto dicta autem iste culpa obcaecati officia vitae ipsa.
                   </p>
                 </div>
@@ -54,7 +54,7 @@ const Feature = () => {
                       alt="hexagon"
                       width={18} 
                       height={18}
-                      className='mr-1'
+                      className='mr-2'
                     />
 
                     <p className="text-lg font-semibold">
@@ -62,7 +62,7 @@ const Feature = () => {
                     </p>
                   </div>
 
-                  <p className="text-gray-500 font-semibold text-sm">
+                  <p className="text-gray-500 text-md">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, reprehenderit? Eum omnis modi architecto dicta autem iste culpa obcaecati officia vitae ipsa.
                   </p>
                 </div>
@@ -78,7 +78,7 @@ const Feature = () => {
                       alt="cube"
                       width={18} 
                       height={18}
-                      className='mr-1'
+                      className='mr-2'
                     />
 
                     <p className="text-lg font-semibold">
@@ -86,7 +86,7 @@ const Feature = () => {
                     </p>
                   </div>
 
-                  <p className="text-gray-500 font-semibold text-sm">
+                  <p className="text-gray-500 text-md">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, reprehenderit? Eum omnis modi architecto dicta autem iste culpa obcaecati officia vitae ipsa.
                   </p>
                 </div>

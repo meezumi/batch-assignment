@@ -12,7 +12,7 @@ const Hero = () => {
                 Make The Best Financial Decisions
               </h1>
 
-              <p className="text-gray-500 text-[17px] text-sm mb-6 font-semibold">
+              <p className="text-gray-500 text-[17px] text-md mb-6">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi voluptatibus quasi a provident fuga eveniet sequi quidem ea nesciunt asperiores, dolorum rem soluta, at similique explicabo eius nam, enim repellat?
               </p>
 
@@ -30,7 +30,7 @@ const Hero = () => {
             </div>
             <div className='block px-20 pt-8'>
               <Image 
-                src="/assets/images/hero-2.png" 
+                src="/assets/images/hero-2.svg" 
                 alt="hero-2" 
                 width={800} 
                 height={300} 

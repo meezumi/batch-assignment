@@ -17,9 +17,9 @@ const Navbar = () => {
           <p className='font-bold text-[30px]'>uifry</p>™
         </Link>
 
-        <div className="flex ml-20 space-x-8">
+        <div className="flex ml-20 space-x-8 font-semibold">
          <Link href="/" legacyBehavior>
-              <a className="text-red-500 font-bold">Home</a>
+              <a className="text-red-400 font-bold">Home</a>
             </Link>
             <Link href="/about" legacyBehavior>
               <a className="text-gray-900">About Us</a>

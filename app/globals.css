@@ -14,5 +14,6 @@
     @apply mt-[0px] text-7xl leading-[72px] font-bold tracking-[-1.2px] text-gray-900;
   }
 
-
-
+body {
+  font-family: 'Clash Display', sans-serif;
+}

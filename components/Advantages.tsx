@@ -10,7 +10,7 @@ const Advantages = () => {
             <h2 className="text-red-500 text-lg font-semibold mb-0">
               ADVANTAGES
             </h2>
-            <h1 className="text-3xl font-extrabold mb-5">
+            <h1 className="text-4xl font-extrabold mb-5">
               Why Choose Unifry?
             </h1>
 
@@ -27,12 +27,12 @@ const Advantages = () => {
                       className='mr-4'
                     />
 
-                    <p className="text-xl font-bold">
+                    <p className="text-2xl font-bold">
                       Clever Notifications
                     </p>
                   </div>
 
-                  <p className="text-gray-500 font-semibold text-sm mt-3">
+                  <p className="text-gray-500 text-md mt-3">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, reprehenderit? Eum omnis modi architecto dicta autem iste culpa obcaecati officia vitae ipsa. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur tempore odio quo non cum eaque quisquam saepe autem ab, dolores quod qui quas quis enim, perspiciatis accusamus inventore delectus eum.
                   </p>
                 </div>
@@ -81,12 +81,12 @@ const Advantages = () => {
                       className='mr-4'
                     />
 
-                    <p className="text-xl font-bold">
+                    <p className="text-2xl font-bold">
                       Fully Customizable
                     </p>
                   </div>
 
-                  <p className="text-gray-500 font-semibold text-sm mt-3 pr-20">
+                  <p className="text-gray-500 text-md mt-3 pr-20">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, reprehenderit? Eum omnis modi architecto dicta autem iste culpa obcaecati officia vitae ipsa. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur tempore odio quo non cum eaque quisquam saepe autemeum.
                   </p>
                 </div>

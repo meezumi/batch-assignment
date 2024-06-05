@@ -8,7 +8,7 @@ const Testimonial = () => {
         TESTIMONIAL
       </h2>
 
-      <h1 className="text-4xl font-extrabold mb-6 text-center tracking-tight">
+      <h1 className="text-5xl font-extrabold mb-6 text-center tracking-tight">
         What Our Users <br /> Say About Us?
       </h1>
 
@@ -33,7 +33,7 @@ const Testimonial = () => {
               <div className="flex items-start space-x-1">
                 <div>
 
-                  <p className="text-gray-500 font-semibold text-sm pr-20">
+                  <p className="text-gray-500 text-md pr-20">
                     “Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam.”
                   </p>
 

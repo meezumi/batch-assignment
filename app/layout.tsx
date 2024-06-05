@@ -17,7 +17,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={montserrat.className}>
+      <head>
+        <link href="https://api.fontshare.com/v2/css?f[]=clash-display@400,600&display=swap" rel="stylesheet"></link>
+      </head>
+      <body>
         <main>
           {children}
         </main>
